@@ -1,2 +1,2 @@
-# learn-F-
+# learn-fsharp
 Learn F#
